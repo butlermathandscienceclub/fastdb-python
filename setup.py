@@ -4,7 +4,7 @@ if __name__ == '__main__':
   setup(  name = 'fastdb',         
   packages = ['fastdb'],   #
   version = '1.1.2',   
-        download_url = 'https://github.com/kellantech/superstacks/archive/refs/tags/v0.1.1.tar.gz',
+        download_url = 'https://github.com/butlermathandscienceclub/fastdb-python/archive/refs/tags/v1.tar.gz',
           keywords = ['db', 'python', 'database'],   #
   install_requires=[           
          
